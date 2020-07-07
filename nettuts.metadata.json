@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"nettuts.nettuts"}],"uuid":"c16585d28cdd411f9010cfa729680f8d"}
