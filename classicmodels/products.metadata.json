@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"classicmodels.products"}],"uuid":"b71f146e14184f7cac357e7a8c6611ba"}
