@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"BDD2_db_bios.tester"}],"uuid":"5a8bd96519604e9d89a613bc8165e683"}
